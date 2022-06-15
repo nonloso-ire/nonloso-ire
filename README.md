@@ -1,18 +1,3 @@
-<!--
-**nonloso-ire/nonloso-ire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
        
 ### Hi there 👋
@@ -34,4 +19,12 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
  
+</div>
+
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Visitor's&height=150&fontSize=60&desc=Count&descAlignY=75&descAlign=60)
+
+<div align="center">
+
+![nonloso-ire :: Visitor's count](https://profile-counter.glitch.me/{nonloso-ire}/count.svg)
+
 </div>
