@@ -28,3 +28,11 @@
 ![nonloso-ire :: Visitor's count](https://profile-counter.glitch.me/{nonloso-ire}/count.svg)
 
 </div>
+
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=My&height=150&fontSize=60&desc=Trophies&descAlignY=75&descAlign=60)
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nonloso-ire)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
