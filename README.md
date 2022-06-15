@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 ![](https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611bcd6f553e580bd7e45ddbfe9c33a676ac62c07ca&rid=giphy.gif&ct=g)
 ---
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ire_0517)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/irenee549?t=sIHtB0DHAmPy-Yc40EMSNA&s=08)
        
 </div>
