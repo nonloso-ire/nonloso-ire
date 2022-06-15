@@ -1,9 +1,5 @@
 ### Hi there 👋
-
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;">
-  <img src="https://giphy.com/embed/RbDKaczqWovIugyJmW"></img>
-</div>
-
+![](https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611bcd6f553e580bd7e45ddbfe9c33a676ac62c07ca&rid=giphy.gif&ct=g)
 
 <!--
 **nonloso-ire/nonloso-ire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
