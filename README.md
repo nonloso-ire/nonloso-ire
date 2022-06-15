@@ -27,5 +27,11 @@ Here are some ideas to get you started:
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/irene.lapi.56)
 [![tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://vm.tiktok.com/ZMNNG7L7j/)
        
-       
+---
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Language&height=150&fontSize=60&desc=That%20I%20Know&descAlignY=75&descAlign=60)
+---
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+ 
 </div>
