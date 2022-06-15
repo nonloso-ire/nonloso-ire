@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-       ### Hi there 👋
-       ![](https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611bcd6f553e580bd7e45ddbfe9c33a676ac62c07ca&rid=giphy.gif&ct=g)     
+       
+### Hi there 👋
+![](https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611bcd6f553e580bd7e45ddbfe9c33a676ac62c07ca&rid=giphy.gif&ct=g)     
+
 </div>
